@@ -151,10 +151,12 @@ Giả sử mình chọn được **theme** này https://deanattali.com/beautiful
 ### TỔNG KẾT
 
 - Bài viết này chỉ là một hướng dẫn nho nhỏ để các bạn sử dụng **Github Pages** viết blog cho riêng mình.
-- Để modify những theme có sẵn hay tự build một blog từ đầu còn **phụ thuộc vào khả năng của từng người**.
-- Bài viết cũng là bước tiếp cận đầu tiên, giúp cho các bạn có cái nhìn tổng quan  khi sử dụng Github Pages và Jekyll.
-- Bài viết có thể còn có sai sót, rất mong nhận được sự đóng góp ý kiến từ các bạn.
+- Để modify những theme có sẵn hay tự build một blog từ đầu thì còn **phụ thuộc vào khả năng của từng người**.
+- Bài viết cũng là bước tiếp cận đầu tiên, giúp cho các bạn có cái nhìn tổng quan khi sử dụng Github Pages và Jekyll.
+- Bài viết có thể còn có sai sót, nên mình rất mong nhận được sự đóng góp ý kiến từ các bạn.
 - Trong bài tiếp theo mình sẽ viết hướng dẫn deploy Blog trên một con **Local Jekyll** mà không cần phải phụ thuộc vào Github Pages nữa.
+
+Mình xin dừng phím tại đây, cảm ơn các bạn đã đọc đến tận đây nhé :D.
 
 ### TÀI LIỆU THAM KHẢO
 
