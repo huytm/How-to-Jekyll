@@ -101,7 +101,7 @@ Mặc định **Github pages sử dụng repository và mã nguồn ở nhánh m
 ![alt text](https://raw.githubusercontent.com/huytm/How-to-Jekyll/master/images/blank-step13.png
  "Step13")
  
- **Tadaaa**
+ **Tadaaa** :v:
 
 ### 4. SỬ DỤNG  MỘT  THEME CÓ SẴN  CHO BLOG
 
@@ -136,17 +136,17 @@ Giả sử mình chọn được **theme** này https://deanattali.com/beautiful
 ![alt text](https://raw.githubusercontent.com/huytm/How-to-Jekyll/master/images/step5.png
  "Step5")
  
-`6. Sửa xong thì vào "Setting" đổi tên để nó trỏ lại cái url cho nó giống như ở hướng dẫn trên.`
+`6. Đổi lại tên repo để nó trỏ về url của mình.`
 
 ![alt text](https://raw.githubusercontent.com/huytm/How-to-Jekyll/master/images/step6.png
  "Step6")
 
-`6. Chờ tí cho code đồng bộ lên Github Pages... Sau đó truy cập vào url.`
+`7. Chờ tí cho code đồng bộ lên Github Pages... Sau đó truy cập vào url.`
 
 ![alt text](https://raw.githubusercontent.com/huytm/How-to-Jekyll/master/images/step7.png
  "Step7")
 
-**Done**
+**Done** :smiley::smiley:
 
 ### TỔNG KẾT
 
