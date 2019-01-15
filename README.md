@@ -3,7 +3,7 @@ Bạn là một SysAdmin - Bạn là Developer và muốn ghi chú lại tài li
 
 Bạn hoàn toàn có thể sử dụng một nền tảng có sẵn đề  viết biết blog  như [blogspot](https://www.blogger.com/), [wordpress](https://wordpress.com), [netlify](https://www.netlify.com/) hay vân vân và mây mây. Nhưng bạn có biết bản thân Github cũng có một nền tảng hỗ trợ bạn publish một blog không? Đó là một nền tảng khá nổi tiếng, có cộng đồng phát triển lớn, đã support tương đối đầy đủ tính năng để bạn có thể phát triển một trang blog cho riêng mình. Là một  nền tảng không cầu kỳ, nhỏ gọn, customize dễ dàng (nếu bạn biết một chút về html, css) và có performace khá tốt. Và nền tảng mình muốn nói tới ở đây chính là [Github Pages](https://pages.github.com/). 
 
-Trong phạm vi bài viết này mình không so sánh sự khác biệt giữa các nền tảng dùng để viết blo,  cái nào tốt hơn cái nào, cái nào đẹp hơn cái nào mà mình chỉ  viết một tài liệu nho nhỏ cho bản thân, cũng như chia sẻ với những ai muốn sử dụng Github Pages nhưng chưa biết bắt đầu từ đâu.
+Trong phạm vi bài viết này mình không so sánh sự khác biệt giữa các nền tảng dùng để viết blog, cái nào tốt hơn cái nào, cái nào đẹp hơn cái nào mà mình chỉ  viết một tài liệu nho nhỏ cho bản thân, cũng như chia sẻ với những ai muốn sử dụng Github Pages nhưng chưa biết bắt đầu từ đâu.
 
 Bài viết gồm bốn phần chính là:
 - Giới thiệu về Github Pages.
