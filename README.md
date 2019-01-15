@@ -11,7 +11,7 @@ Bài viết gồm bốn phần chính là:
 - Tự tạo một blog với Github Pages.
 - Sử dụng một theme có sẵn cho blog.
 
-#### 1. GIỚI THIỆU VỀ GITHUB PAGES
+### 1. GIỚI THIỆU VỀ GITHUB PAGES
 
 _Github pages là một web hosting service được phát triển bởi Github để lưu trữ các trang web tĩnh phục vụ cho việc viết blog, tài liệu cho dự án, hoặc thậm chí là viết sách_ (Nguồn wiki).
 
@@ -27,7 +27,7 @@ Cộng đồng của Jekyll cũng rất lớn, khoảng 8000 contributor chính 
 
 >Share link github của Jekyll cho ai muốn trở thành thánh Jekyll (https://github.com/jekyll/jekyll)
 
-#### 2. CƠ CHẾ HOẠT ĐỘNG CỦA GITHUB PAGES
+### 2. CƠ CHẾ HOẠT ĐỘNG CỦA GITHUB PAGES
 
 Để  hiểu về cơ chế hoạt động của Github pages trước hết bạn cần phải biết một chút về các khái niệm Ruby, RubyGem, Git, Repository, Branch.
 - **[Ruby](https://www.ruby-lang.org/vi/) :** là một ngôn ngữ lập trình nguồn mở, chú trọng cao về hiệu suất. Jekyll được viết bằng Ruby và sử dụng Ruby để thông dịch các file mã nguồn ra html.
@@ -43,10 +43,12 @@ Mặc định **Github pages sử dụng repository và mã nguồn ở nhánh m
 #### 3. TỰ TẠO MỘT BLOG VỚI GITHUB PAGES
 
 `1. Đăng ký một tài khoản Github và đăng nhập.`
+
 `2. Tạo một repository chứa mã nguồn.`
 
 ![alt text](https://raw.githubusercontent.com/huytm/How-to-Jekyll/master/images/blank-step1.png
  "Step1")
+ 
 `3. Chọn tạo "New" để tạo mới.` 
 
 ![alt text](https://raw.githubusercontent.com/huytm/How-to-Jekyll/master/images/blank-step2.png
@@ -99,7 +101,7 @@ Mặc định **Github pages sử dụng repository và mã nguồn ở nhánh m
  
  **Tadaaa**
 
-#### 3. SỬ DỤNG  MỘT  THEME CÓ SẴN  CHO BLOG
+### 3. SỬ DỤNG  MỘT  THEME CÓ SẴN  CHO BLOG
 
 Thường với một người mù mờ về nghệ thuật và code kém như mình thì mình sẽ hay chọn một theme có sẵn cho blog :laughing: :laughing:
 
@@ -144,7 +146,7 @@ Giả sử mình chọn được **theme** này https://deanattali.com/beautiful
 
 **Done**
 
-#### Tổng kết
+### TỔNG KẾT
 
 - Bài viết này chỉ là một hướng dẫn nho nhỏ để các bạn sử dụng **Github Pages** viết blog cho riêng mình.
 - Để modify những theme có sẵn hay tự build một blog từ đầu còn **phụ thuộc vào khả năng của từng người**.
@@ -152,7 +154,7 @@ Giả sử mình chọn được **theme** này https://deanattali.com/beautiful
 - Bài viết có thể còn có sai sót, rất mong nhận được sự đóng góp ý kiến từ các bạn.
 - Trong bài tiếp theo mình sẽ viết hướng dẫn deploy Blog trên một con **Local Jekyll** mà không cần phải phụ thuộc vào Github Pages nữa.
 
-#### Tài liệu tham khảo
+### Tài liệu tham khảo
 https://en.wikipedia.org/wiki/Jekyll_(software)
 https://en.wikipedia.org/wiki/Tom_Preston-Werner
 https://github.com/jekyll/jekyll
