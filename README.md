@@ -32,7 +32,7 @@ Cộng đồng của Jekyll cũng rất lớn, khoảng 8000 contributor chính 
 Để  hiểu về cơ chế hoạt động của Github pages trước hết bạn cần phải biết một chút về các khái niệm Ruby, RubyGem, Git, Repository, Branch.
 - **[Ruby](https://www.ruby-lang.org/vi/) :** là một ngôn ngữ lập trình nguồn mở, chú trọng cao về hiệu suất. Jekyll được viết bằng Ruby và sử dụng Ruby để thông dịch các file mã nguồn ra html.
 - **RubyGems :** là một hệ thống quản lý thư viện (libs-packages-managers) để quản lý các thư viện, các plugin được viết bằng Ruby. Nó cũng tương đương với **npm** của javascript, **mvn** của java, hay **composer** của php.
-- **Git :** là hệ thống quản lý mã nguồn phân tán, cha đẻ của Git là Linus Torvalds (thánh này viết Linux Kernel rồi kết hợp với dự án GNU tạo nên hệ điều hành làm mưa làm gió GNU/Linux).
+- **Git :** là hệ thống quản lý mã nguồn phân tán, cha đẻ của Git là Linus Torvalds (thánh này ai làm IT mà khoogn biết thì quả là có lỗi với tiền bối :laughing::laughing:. Đây chính là thánh viết Linux Kernel rồi kết hợp với dự án GNU tạo nên hệ điều hành làm mưa làm gió GNU/Linux).
 - **Repository :** Đúng như tên gọi của nó, Repository là một kho chứa. Trong hệ thống quản lý mã nguồn Git, Repository chính là một project, một dự án nơi mọi người phát triển và tập trung code của mình tại đó.
 - **Branch :** Trong repository lại chia thành nhiều nhánh. Việc chia nhánh này giúp cho việc quản lý mã nguồn được tốt hơn, ngoài ra còn có các tác dụng khác, tùy vào cách sử dụng của mỗi người. Trong quy trình phát triển phần mềm - đa số, mỗi nhánh gồm các nhiệm vụ khác nhau. Chẳng hạn **master** là một nhánh xuyên suốt sẽ là nhánh để release sản phầm - là nhánh sẵn sàng deploy nhất, nhánh **develope** sử dụng để phát triển, hoặc có những nhánh chỉ để phát triển riêng một tính năng cho sản phẩm chẳng hạn...
 
@@ -84,7 +84,9 @@ Mặc định **Github pages sử dụng repository và mã nguồn ở nhánh m
 ![alt text](https://raw.githubusercontent.com/huytm/How-to-Jekyll/master/images/blank-Step8.png
  "Step8")
 
- `10. Đổi tên repository thành định dạng như sau "any-name.github.io". Trong bài viết này mình để là "huytm.github.io". Một lưu ý nho nhỏ, nếu trong tài khoản github của bạn đã có một repository đã deploy Github Page rồi, thì khi các repository khác khi muốn deploy tiếp lên Github Pages thì các Repository đó sẽ là một URI của Url đã đăng ký trước đó. Ví dụ "http://huytm.github.io/my-another-blog"` 
+ `10. Đổi tên repository thành định dạng như sau "any-name.github.io". Trong bài viết này mình để là "huytm.github.io".`
+ 
+ >Một lưu ý nho nhỏ, nếu trong tài khoản github của bạn đã có một repository đã deploy Github Page rồi, thì khi các repository khác khi  deploy tiếp lên Github Pages sẽ là một **URI** của **URL** đã đăng ký trước đó. Ví dụ "http://huytm.github.io/my-another-blog"` 
 
 ![alt text](https://raw.githubusercontent.com/huytm/How-to-Jekyll/master/images/blank-step9.png
  "Step9")
@@ -101,7 +103,7 @@ Mặc định **Github pages sử dụng repository và mã nguồn ở nhánh m
  
  **Tadaaa**
 
-### 3. SỬ DỤNG  MỘT  THEME CÓ SẴN  CHO BLOG
+### 4. SỬ DỤNG  MỘT  THEME CÓ SẴN  CHO BLOG
 
 Thường với một người mù mờ về nghệ thuật và code kém như mình thì mình sẽ hay chọn một theme có sẵn cho blog :laughing: :laughing:
 
@@ -154,8 +156,12 @@ Giả sử mình chọn được **theme** này https://deanattali.com/beautiful
 - Bài viết có thể còn có sai sót, rất mong nhận được sự đóng góp ý kiến từ các bạn.
 - Trong bài tiếp theo mình sẽ viết hướng dẫn deploy Blog trên một con **Local Jekyll** mà không cần phải phụ thuộc vào Github Pages nữa.
 
-### Tài liệu tham khảo
+### TÀI LIỆU THAM KHẢO
+
 https://en.wikipedia.org/wiki/Jekyll_(software)
+
 https://en.wikipedia.org/wiki/Tom_Preston-Werner
+
 https://github.com/jekyll/jekyll
+
 https://jekyllrb.com/news/releases/
