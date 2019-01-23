@@ -1,6 +1,6 @@
 Hướng dẫn sử dụng Jekyll - Part 2: Cài đặt Jekyll trên CentOS7
 
-Ở bài viết trước của mình, mình có nói đến việc cài đặt một con **Local jekyll** vậy nên ở bài này mình sẽ viết lại các bước cụ thể để có thể cài đặt và sử dụng được nó. Nếu ai chưa biết về Jekyll hay Github pages là gì thì quay lại đọc bài viết trước của mình tại [đây](https://blog.cloud365.vn/other/huong-dan-su-dung-Jekyll-Part1-Github-pages/) nhé. 
+Ở bài viết trước của mình, mình có nói đến việc cài đặt một con **Local jekyll** vậy nên ở bài này mình sẽ viết lại các bước cụ thể để có thể cài đặt và sử dụng được nó. Nếu ai chưa biết về Jekyll hay Github pages là gì thì quay lại đọc bài viết trước của mình tại [đây](https://blog.cloud365.vn/other/huong-dan-su-dung-Jekyll-Part1-Github-pages/){:target="_blank"} nhé. 
 
 Sẽ có nhiều người tự hỏi. __Ủa, sao có Github pages rồi còn phải chơi **Local jekyll** để làm gì?__ Với câu hỏi này mình sẽ trả lời như sau: 
 - Thứ nhất: Theo trang chủ của Github khuyến cáo thì việc cài đặt __Local Jekyll__ là để test và troubleshoot khi Blog của bạn có thay đổi về mã nguồn hoặc các các lib liên quan.
@@ -11,7 +11,7 @@ Sẽ có nhiều người tự hỏi. __Ủa, sao có Github pages rồi còn ph
 
 ## 1. Chuẩn bị
 
-Chuẩn bị một [VPS](https://cloud365.vn/) có cấu hình tối thiểu như sau:
+Chuẩn bị một [VPS](https://cloud365.vn/){:target="_blank"} có cấu hình tối thiểu như sau:
 
 | RAM        | Cpu           | NIC  |OS|
 | ------------- |:-------------:| -----:|------|
@@ -74,7 +74,7 @@ __bundler__ dùng để quản lý, install, uninstall.. các gem. Các gem là 
 
 Như đã nói, các bạn có thể tự build một blog cho riêng mình hoặc tải một theme free có sẵn trên mạng để deploy một blog cho riêng mình.
 
-Ở đây mình chọn blog của [__cloud365vn__](https://cloud365.vn) và Github của cloud365 ở [đây](https://github.com/blogcloud365vn/blogcloud365vn.github.io). Các bạn cũng có thể contribute với __cloud365__ để chia sẻ kiến thức của mình cho những người khác nữa nhé :D.  
+Ở đây mình chọn blog của [__cloud365vn__](https://cloud365.vn){:target="_blank"}và Github của cloud365 ở [đây](https://github.com/blogcloud365vn/blogcloud365vn.github.io){:target="_blank"}. Các bạn cũng có thể contribute với __cloud365__ để chia sẻ kiến thức của mình cho những người khác nữa nhé :D.  
 
 Vì loài người rất đáng sợ, nên mình sẽ chạy blog của mình dưới quyền của `jekyll` !
 
@@ -140,6 +140,8 @@ systemctl start jekyll
 ## 7. Truy cập vào jekyll
 
 Truy cập vào jekyll theo địa chỉ  `http://YOUR_IP:8080`
+
+![Image done](https://github.com/huytm/How-to-Jekyll/blob/master/images/blogcloud365-jekyll.png?raw=true)
 
 
 ---
